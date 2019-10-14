@@ -1,3 +1,5 @@
 find . -name "a*" -print
 find . -name "*z" -print
 find . -name "z*a!" -print
+find . -name "z*" -print
+find . -name "*a!" -print
