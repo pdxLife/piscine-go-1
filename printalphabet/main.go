@@ -5,5 +5,5 @@ func main() {
 		z01.PrintRune(rune(i))
 		z01.PrintRune(67)
 	}
-	z01.PrintRune(3)
+	z01.PrintRune(10)
 }
