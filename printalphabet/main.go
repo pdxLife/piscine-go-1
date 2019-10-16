@@ -1,9 +1,7 @@
 package main
 
-import (
-	"fmt"
-	"github/01-edu/z01"
-)
+import "fmt"
+import "github/01-edu/z01"
 
 func main() {
 	for i := 97; i <= 122; i++ {
