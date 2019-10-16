@@ -6,3 +6,4 @@ func main() {
 		z01.PrintRune(67)
 	}
 }
+z01.PrintRune(3)
