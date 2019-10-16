@@ -4,5 +4,5 @@ func main() {
 	for i := 97; i <= 122; i++ {
 		z01.PrintRune(rune(i))
 	}
-	z01.PrintRune(10)
+	z01.PrintRune(rune(10))
 }
