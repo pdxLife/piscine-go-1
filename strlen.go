@@ -1,9 +1,8 @@
 package piscine
 
-func StrLen(str string) int {
-	n := 0
-	for range str {
-		ns = n + 1
-	}
-	return ns
+func Swap(a *int, b *int) {
+	c = *a
+	d = *b
+	*a = *d
+	*b = *a
 }
