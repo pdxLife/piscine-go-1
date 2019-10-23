@@ -1,5 +1,9 @@
 package piscine
 
 func BasicJoin(strs []string) string {
-	return strs[0]+strs[1]+strs[2]+strs[3]
+	var word string
+	for _, words := range strs {
+		word += words 
+	}
+	return word
 }
